@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/CEBTeam/NCTEST_AZDEVOPS/_apis/build/status/hibbq.ContosoAir?branchName=master)](https://dev.azure.com/CEBTeam/NCTEST_AZDEVOPS/_build/latest?definitionId=8&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
